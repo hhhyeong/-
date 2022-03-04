@@ -2,6 +2,11 @@
 
 Numpy, Python, Pandas, Keras, 개인화알고리즘
 
+
+---
+##### 참고 사이트
+- 데이터 분석) https://u-n-joe.tistory.com/96
+- 판다스 함수) https://pcwpower.tistory.com/49
 ---
 
 #### Ch1. 추천 시스템 소개
